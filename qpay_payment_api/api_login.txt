@@ -1,0 +1,10 @@
+https://merchant-sandbox.qpay.mn/v2/auth/token 
+
+
+i.    username: TEST_MERCHANT
+ii.    password: 123456
+ 
+
+INVOICE_CODE: TEST_INVOICE
+
+Excel file password: 99179204
